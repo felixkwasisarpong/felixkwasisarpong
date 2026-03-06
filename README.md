@@ -6,21 +6,21 @@ Backend & AI Engineer building scalable systems, AI agents, and developer platfo
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=felixsarpong&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=felixkwasisarpong&show_icons=true&theme=tokyonight)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixsarpong&layout=compact&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixkwasisarpong&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![streak](https://streak-stats.demolab.com?user=felixsarpong&theme=tokyonight)
+![streak](https://streak-stats.demolab.com?user=felixkwasisarpong&theme=tokyonight)
 
 ---
 
 ## 📈 Activity Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=felixsarpong&theme=tokyo-night)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=felixkwasisarpong&theme=tokyo-night)
 
 ---
 
