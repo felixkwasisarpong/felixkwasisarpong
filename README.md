@@ -71,4 +71,4 @@ LinkedIn
 https://linkedin.com/in/felixsarpong
 
 Portfolio  
-https://felixsarpong.de
+https://felixsarpong.dev
