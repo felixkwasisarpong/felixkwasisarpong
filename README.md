@@ -5,10 +5,9 @@ Backend & AI Engineer building scalable systems, AI agents, and developer platfo
 ---
 
 ## 📊 GitHub Stats
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixkwasisarpong&show_icons=true&theme=tokyonight)
 
-![stats](https://github-readme-stats.vercel.app/api?username=felixkwasisarpong&show_icons=true&theme=tokyonight)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixkwasisarpong&layout=compact&theme=tokyonight)
+![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felixkwasisarpong&layout=compact&theme=tokyonight)
 
 ---
 
